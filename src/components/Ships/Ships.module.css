@@ -1,0 +1,10 @@
+.ships {
+    padding: 80px 15px 0 15px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.loader{
+    width: 100px;
+}

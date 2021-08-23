@@ -1,0 +1,16 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+    background-color: dimgrey;
+}
+
+.headerBody{
+    padding: 10px;
+}
+
+.logo{
+    width: 250px;
+}

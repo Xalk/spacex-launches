@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(48, 48, 48);
+    color: white;
+    font-family: Roboto, sans-serif;
+}
+
+/* scroll style */
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #303539;
+    border-radius: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #606365;
+    width: 3px;
+    border-radius: 15px;
+}
